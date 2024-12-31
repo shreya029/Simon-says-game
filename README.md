@@ -1,2 +1,3 @@
 # Simon-says-game
-A puzzle game with code
+Learn coding with game
+
